@@ -1,1 +1,3 @@
-![](images/My_Github_Page.png)
+<img src="My_Github_Page.png" height="20>
+
+
