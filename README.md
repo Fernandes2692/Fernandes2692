@@ -7,7 +7,7 @@ Largely self-taught using a variety of **online resources**:
 - Astropy for research paper in Near-Field Cosmology: The Genesis of the Milky Way Galaxy.  
 
 **Code First Girls (CFG) short courses:**
-   * Introduction to Web Development (HTML, CSS, JavaScript and GitHub)
+   * Introduction to Web Development (HTML, CSS & JavaScript)
    * Introduction to Python Programming
    * Introduction to Data Science
    * Introduction to SQL and databases
