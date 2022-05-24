@@ -1,9 +1,10 @@
-![](images/Banner_update.png)
+![](images/banner_github.png)
 
 ## 👩🏻‍💻 My Coding Journey
 
 Largely self-taught using a variety of **online resources**: 
 - FreeCodeCamp, Udacity, EdX, Khan Academy, Coursera, Udacity, DataCamp, Udemy, Codeacademy and of course GitHub! :100:
+- Astropy for research paper in Near-Field Cosmology: The Genesis of the Milky Way Galaxy.  
 
 **Code First Girls (CFG) short courses:**
    * Introduction to Web Development (HTML, CSS, JavaScript and GitHub)
@@ -29,5 +30,5 @@ Largely self-taught using a variety of **online resources**:
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Tools-Topcat-informational?style=flat&logo=python&logoColor=white&color=002F6C)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=002F6C)
-![](https://img.shields.io/badge/Code-astropy-informational?style=flat&logo=postgresql&logoColor=white&color=002F6C)
+![](https://img.shields.io/badge/Code-Astropy-informational?style=flat&logo=postgresql&logoColor=white&color=002F6C)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=002F6C)
