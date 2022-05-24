@@ -1,3 +1,3 @@
-<img src="images/My_Github_Page.png" height="20>
+![](image/Github_banner.png)
 
 
