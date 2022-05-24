@@ -1,4 +1,4 @@
-![](images/banner_github.png)
+![](images/new_banner.png)
 
 ## 👩🏻‍💻 My Coding Journey
 
@@ -28,7 +28,8 @@ Largely self-taught using a variety of **online resources**:
   * Overview of Terraform
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Tools-Topcat-informational?style=flat&logo=python&logoColor=white&color=002F6C)
+![](https://img.shields.io/badge/Tools-Topcat-informational?style=flat&logo=cat&logoColor=white&color=002F6C)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=002F6C)
-![](https://img.shields.io/badge/Code-Astropy-informational?style=flat&logo=postgresql&logoColor=white&color=002F6C)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=002F6C)
+![](https://img.shields.io/badge/Code-Astropy-informational?style=flat&logo=astropy&logoColor=white&color=002F6C)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=SQL&logoColor=white&color=002F6C)
+
