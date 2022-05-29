@@ -1,4 +1,4 @@
-![](images/new_banner.png)
+![](images/Github_banner.png)
 
 ## 👩🏻‍💻 My Coding Journey
 
