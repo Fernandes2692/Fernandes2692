@@ -21,7 +21,7 @@ Largely self-taught using a variety of **online resources**:
 *  Predictive modelling and algorithms
 
 **+CFG masters** - **DevOps & Cloud (Deployment):**
-  * WS, Azure & Google Cloud fundamentals
+  * AWS, Azure & Google Cloud fundamentals
   * Security and compliance
   * Using Docker and containers
   * Kubernetes and deployments
